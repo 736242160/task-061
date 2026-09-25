@@ -1,0 +1,12 @@
+--- a/original.txt
++++ b/original.txt
+@@ -3,3 +3,3 @@
+ charlie
+-delta
++DELTA
+ echo
+@@ -6,3 +6,4 @@
+ foxtrot
+ golf
+ hotel
++india

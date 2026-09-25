@@ -1,0 +1,10 @@
+ZERO
+zeroth
+alpha
+bravo
+charlie
+delta
+echo
+foxtrot
+golf
+hotel
